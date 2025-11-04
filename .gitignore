@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Builds / sites
+_build/
+dist/
+*.egg-info/
+
+# Outputs
+figures/
+audio/
+data/*.csv
+
+# Local scratch / system
+.DS_Store
+*.tmp
