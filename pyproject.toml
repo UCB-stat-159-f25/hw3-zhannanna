@@ -1,0 +1,28 @@
+[build-system]
+requires = ["hatchling", "numpy"]
+build-backend = "hatchling.build"
+
+[project]
+name = "ligotools"
+version = "0.1.0"
+description = "Utilities for the LIGO Gravitational Wave tutorial"
+readme = "README.md"
+requires-python = ">=3.9"
+authors = [
+  { name = "LIGO Scientific Collaboration (LSC)" },
+  { name = "Zhanna Chvyl" }
+]
+dependencies = [
+  "numpy",
+  "scipy",
+  "matplotlib",
+  "h5py",
+  "pandas",
+  "pytest",
+  "pytest-cov",
+  "mystmd",
+  "soundfile"
+]
+
+[project.urls]
+Homepage = "https://github.com/UCB-stat-159-f25/hw3-zhannanna"
