@@ -1,0 +1,13 @@
+version: 1
+project:
+  title: "STAT 159/259 HW3 – LIGO Gravitational Waves"
+  authors:
+    - "LIGO Scientific Collaboration (LSC) and Zhanna Chvyl"
+  github: "https://github.com/UCB-stat-159-f25/hw3-zhannanna"
+site:
+  title: "HW3 – LIGO"
+  nav:
+    - text: "Home"
+      file: index.md
+    - text: "Notebook"
+      file: LOSC_Event_tutorial.ipynb
