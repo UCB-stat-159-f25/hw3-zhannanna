@@ -3,3 +3,10 @@
 ## MyST Site
 Published automatically via GitHub Pages:
 <PASTE YOUR PAGES URL HERE>
+
+## Launch on Binder
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-f25/hw3-zhannanna/HEAD?labpath=LOSC_Event_tutorial.ipynb)
+
+## MyST Site
+Published automatically via GitHub Pages:  
+https://ucb-stat-159-f25.github.io/hw3-zhannanna/
